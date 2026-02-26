@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Qinxian Yang 👋
 
-<!--
-**ysyq24/ysyq24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Researcher in LLM / RLHF / Agent Memory  
+💻 Working on Code Benchmark & RL Training  
+📍 Kuala Lumpur  
 
-Here are some ideas to get you started:
+## 📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: your_email@gmail.com  
+GitHub: https://github.com/yangshuoyuqi  
+
+## 🚀 Research Interests
+
+- Reinforcement Learning
+- Agent Memory Benchmark
+- Code Generation Evaluation
+- GRPO / PPO
