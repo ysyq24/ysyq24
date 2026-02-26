@@ -2,11 +2,10 @@
 
 🎓 Researcher in LLM / RLHF / Agent Memory  
 💻 Working on Code Benchmark & RL Training  
-📍 Kuala Lumpur  
 
 ## 📫 Contact
 
-Email: your_email@gmail.com  
+Email: yangshuoyuqi@gmail.com  
 GitHub: https://github.com/yangshuoyuqi  
 
 ## 🚀 Research Interests
