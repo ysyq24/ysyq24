@@ -1,4 +1,4 @@
-# Hi, I'm Qinxian Yang 👋
+# Hi, I'm Qx Yang 👋
 
 🎓 Researcher in LLM / RLHF / Agent Memory  
 💻 Working on Code Benchmark & RL Training  
